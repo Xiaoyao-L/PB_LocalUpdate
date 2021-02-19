@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PB_LocalUpdate:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PB_LocalUpdate_jar</output-path>
+    <root id="archive" name="PB_LocalUpdate.jar">
+      <element id="module-output" name="PB_LocalUpdate" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.19/commons-compress-1.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-net/commons-net/3.6/commons-net-3.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
